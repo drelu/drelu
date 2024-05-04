@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andre
-- 👀 I’m interested in Quantum Computing, High-Performance Computing and Machine Learning
+- 👀 I’m interested in system challenges in High-Performance Computing, Distributed Computing, Quantum Computing and Machine Learning
 - 📫 How to reach me <https://twitter.com/drelu>
 
 <!---
